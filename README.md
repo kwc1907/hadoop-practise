@@ -1,0 +1,2 @@
+# hadoop-practise
+学习hadoop的hdfs与mapreduce时在API端所做的一些练习
